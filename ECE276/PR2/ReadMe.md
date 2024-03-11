@@ -1,0 +1,3 @@
+The code is designed to be highly adaptable, allowing for easy execution with any dataset. Simply adjust the dataset variable at the beginning of the code to select the desired dataset. (options: 20 and 21)
+The implementation relies on several libraries, including open3d, transforms3d, sklearn, matplotlib, cv2, gtsam, and sys.
+Please create a Result folder in the .py direction to save all the result in this folder, and also put the data folder in the parent  folder of .py file.
